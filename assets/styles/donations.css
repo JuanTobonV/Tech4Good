@@ -94,7 +94,7 @@ main{
 .showInfo textarea {
     width: 98%;
     box-sizing: border-box; /* Asegura que el padding y el borde se incluyan en el ancho total */
-    
+    resize: none;
 }
 
 .list__arrow{
