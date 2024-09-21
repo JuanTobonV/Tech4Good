@@ -85,10 +85,14 @@ main{
 .showInfo{
     transition: height 0.3s;
     height: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
 }
 
 .showInfo textarea {
-    width: 100%;
+    width: 98%;
     box-sizing: border-box; /* Asegura que el padding y el borde se incluyan en el ancho total */
     
 }
