@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+}
+.menuColor{
+    background-color: #2563eb;
+    color: white;
+}
+
+.navbar{
+
+    --bs-navbar-padding-y:0rem;
+
+}
+
+footer p{
+    font-size: 0.9rem;
+    text-align: center;
+}
