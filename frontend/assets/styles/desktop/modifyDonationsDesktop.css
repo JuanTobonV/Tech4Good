@@ -9,6 +9,8 @@
     color: white;
 }
 
+
+
 .navbar{
 
     --bs-navbar-padding-y:0rem;
@@ -58,6 +60,8 @@ main{
     
     
 }
+
+
 
 footer p{
     font-size: 0.9rem;
