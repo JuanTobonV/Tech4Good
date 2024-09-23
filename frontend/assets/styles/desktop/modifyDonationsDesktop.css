@@ -15,14 +15,18 @@
 
 }
 
-footer p{
-    font-size: 0.9rem;
-    text-align: center;
-}
+.navbar-nav .nav-link:hover {
+    text-decoration: underline; /* Añade un subrayado al texto */
+  }
+
+
+
+
+
 
 main{
     
-    margin: 40px 20px;
+    margin: 40px 300px;
 }
 .options{
     margin-bottom: 10px;
@@ -53,4 +57,9 @@ main{
     width: 100%;
     
     
+}
+
+footer p{
+    font-size: 0.9rem;
+    text-align: center;
 }

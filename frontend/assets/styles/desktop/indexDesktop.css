@@ -28,17 +28,22 @@
     padding:30px;
 }
 
+
+
 .mainContainer h1{
     font-size: 2rem;
+    font-weight: 700;
 }
 
 .mainContainer p{
     font-size: 1.2rem;
+    padding: 0px 400px;
 }
 
 .mainContainer a{
     color: white;
     text-decoration: none;
+
 }
 
 .mainContainer a:nth-child(3){
@@ -48,6 +53,7 @@
     border-radius: 5px;
     color: #3b82f6 ;
     margin-bottom: 13px;
+    
 }
 
 .mainContainer a:nth-child(4){
@@ -64,7 +70,7 @@
     justify-content: center;
     align-items: center;
 
-    padding: 30px;
+    padding: 30px 300px;
     text-align: center;
 }
 
@@ -77,6 +83,7 @@
     display: flex;
     flex-direction: column;
     justify-content: end;
+    padding: 0px 100px;
     
 }
 
@@ -106,11 +113,7 @@
     font-weight: 700;
 }
 
-.donaciones{
-    padding:20px
-    
 
-}
 
 .donaciones a{
     padding: 10px;

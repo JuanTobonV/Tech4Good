@@ -21,7 +21,7 @@ footer p{
 
 main{
     
-    margin: 40px 20px;
+    margin: 40px 300px;
 }
 .options{
     margin-bottom: 10px;
@@ -105,6 +105,25 @@ main{
     transform: rotate(90deg);
 
 }
-.select option{
-    color: #a6a6a6;
+.default-option {
+    color: #a6a6a6; /* Cambia '#a6a6a6' por el color que desees */
+}
+
+.addButtonCard{
+    display: flex;
+    justify-content: center;
+}
+
+.addButton{
+    background-color: #2563eb;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+    
+}
+
+.addButton:hover{
+    background-color: #1e4bbf;
 }
