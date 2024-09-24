@@ -91,14 +91,10 @@ main{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
 }
 
-.showInfo textarea {
-    width: 98%;
-    box-sizing: border-box; /* Asegura que el padding y el borde se incluyan en el ancho total */
-    resize: none;
-}
+
 
 .list__arrow{
     transition: transform 0.3s;
